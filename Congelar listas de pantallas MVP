@@ -1,0 +1,10 @@
+Pantallas a encontrar en el proyecto
+
+1)Pantalla principal: Sera la pantalla principal que el usuario verá al entrar, en esta se encontraran los botones
+de navegacion neceesarios para ir a las diferentes instancias de la aplicación.
+2)Pantalla de registro de estudiantes: En esta se desplegara un formulario en el cual se deberan completar los
+datos del estudiante a registrar, tambien desde aqui se podran ver los datos de los estudiantes inscritos.
+3)Pantalla de registro de Cursos: En esta pantalla se craran los cursos que se les asignara a cada alumno, 
+en esta se creara el curso y las diversas actividades que se realizaran en este como las evaluaciones.
+4) Pantalla de reportes: En esta se veran todos los reportes que se obtengan del alumno, como datos personales, calificaciones,
+cursos asignados y cursos aprovados o perdidos.
