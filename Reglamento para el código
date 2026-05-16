@@ -1,0 +1,13 @@
+Reglas a seguir
+1)No se pueden dejar campos en blanco: todos los datos en un formulario son estrictamente necesarios ya que toda
+la informacion es necesaria para los reportes, si se deja un espacio en blanco dara un error hasta que el campo se complete.
+2)Solo se aceptan numeros entre 0 y 100: Queda estrictamente prohibido colocar numeros negativos o decimales en el apartado de
+calificaciones ya que las notas solo pueden ser datos enteros.
+3)Se debe hacer un porcentaje: Para cuando el alumno haya completado su ciclo escolar debe tener un porcentaje de aprobacion
+para asignar si gano o perdio el curso.
+4) Porcentaje igual a 100: El porcentaje de las calificaciones debe no ser mayor a 100 y no menor a 0
+5)Datos segun su categoria: La aplicacion debe dar error cuando en los datos ingresados no sean del tipo que es solicitado,
+en los apartados que se pidan nombres propios o nombres del curso a asignar no poder colocar numeros sole letras, al igual
+que en calificaciones no colocar letras.
+6)No deben aparecer criterios en blanco a la hora de mostrar reportes.
+7)En el apartado reportes mostrar los datos actualizados luego de haber hecho un cambio.
